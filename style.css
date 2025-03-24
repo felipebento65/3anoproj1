@@ -1,9 +1,8 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #572906;
+    --laranja-claro: #FF862A;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
     --alto-contraste-link: #ffd700;
@@ -25,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #572906;
+    color: #CB6D43;
     font-weight: 600;
 }
 
@@ -95,12 +94,6 @@ section {
     /* Garante que o conteúdo fica acima das imagens do background */
 }
 
-.formulario {
-    background-color: #ffffff;
-    padding: 2rem;
-    /* Espaçamento interno dentro do formulário */
-    border-radius: 10px;
-
 
 h2 {
     font-family: 'Lemon', serif;
@@ -120,7 +113,7 @@ h2 {
 }
 
 #contato {
-    background-image: url('img/fundo-do-mar-e-praia-vazia_74190-313\ \(1\).jpg);
+    background-image: url('img/4965007.jpg');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -139,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color:  #572906;
+    background-color: #CB6D43;
     border: none;
     font-weight: bold;
 }
