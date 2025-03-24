@@ -31,7 +31,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/banner-22.jpg');
+    background-image: url('img/fundo-do-mar-e-praia-vazia_74190-313\ \(1\).jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -94,6 +94,12 @@ section {
     z-index: 1;
     /* Garante que o conteúdo fica acima das imagens do background */
 }
+
+.formulario {
+    background-color: #ffffff;
+    padding: 2rem;
+    /* Espaçamento interno dentro do formulário */
+    border-radius: 10px;
 
 
 h2 {
